@@ -1,0 +1,11 @@
+# LaTex stuff
+*.log
+*.out
+*.synctex*
+*.fdb_latexmk
+*.aux
+
+# Emacs stuff
+#*
+*~
+*#
