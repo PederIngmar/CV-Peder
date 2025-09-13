@@ -5,6 +5,8 @@
 *.fdb_latexmk
 *.aux
 
+#Applications
+Applications/
 # Emacs stuff
 #*
 *~
