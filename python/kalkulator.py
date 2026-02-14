@@ -1,5 +1,3 @@
-import numpy as np
-import matplotlib.pyplot as plt
 import math
 
 grades = {"elmag": "A",
@@ -16,7 +14,11 @@ grades = {"elmag": "A",
        "esda1":"A",
        "itgk":"A",
        "matte1":"A",
-       "ade":"C"
+       "ade":"C",
+       "sanntid" : "C",
+       "sensor" : "C",
+       "kompilator" : "D",
+       "tekled": "C"
 }
 
 scale = {"A": 5,
